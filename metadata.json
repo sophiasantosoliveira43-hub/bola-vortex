@@ -1,0 +1,6 @@
+{
+  "name": "Bola de Vôlei Vortex Pro",
+  "description": "Landing page de alta performance para a Bola de Vôlei Vortex Pro — precisão aerodinâmica, toque ultra-macio e durabilidade incomparável para jogar no mais alto nível.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
