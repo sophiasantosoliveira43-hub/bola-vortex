@@ -1,8 +1,11 @@
 import { ProductEdition, Hotspot, PlayerRoleInfo, Review, FaqItem } from '../types';
+import heroImage from '../assets/images/volleyball_hero_1789244121102.jpg';
+import detailImage from '../assets/images/volleyball_detail_1789244136660.jpg';
+import actionImage from '../assets/images/volleyball_action_1789244151415.jpg';
 
-export const HERO_IMAGE = '/src/assets/images/volleyball_hero_1789244121102.jpg';
-export const DETAIL_IMAGE = '/src/assets/images/volleyball_detail_1789244136660.jpg';
-export const ACTION_IMAGE = '/src/assets/images/volleyball_action_1789244151415.jpg';
+export const HERO_IMAGE = heroImage;
+export const DETAIL_IMAGE = detailImage;
+export const ACTION_IMAGE = actionImage;
 
 export const PRODUCT_SPECS = [
   { label: 'Circunferência', value: '65 - 67 cm', detail: 'Padrão Oficial FIVB Pro' },
